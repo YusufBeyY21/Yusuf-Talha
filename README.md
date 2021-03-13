@@ -1,4 +1,4 @@
-### Hi There, I am Elminstêr 👋
+### Hi There, I am Yusuf Talha 👋
 <a href="https://discordapp.com/users/671302260713717760/">
   <img align="left" alt="My Discord" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
@@ -30,5 +30,5 @@ I am a passionate self-taught programmer from Turkey.
 
 <br />
   
-⚡ Elminstêr <br>
-“Hayatta en büyük lüks yarına dair cümleler kurmaktır. O cümleler yarına ulaştığında ise tek gerçeğin dündür.”
+⚡ Yusuf Talha <br>
+“Kendi halinde takılıyor :)”
